@@ -17,6 +17,6 @@ Welcome to my slice of GitHub! I’m someone who thrives on learning, debugging,
 
 🔧 Also intrested in Contributing to open-source projects, especially in Linux and cybersecurity domains.
 
-📫 Just mail me at starkg5mr@gmail.com@gmail.com and I will get back to you!
+📫 Just mail me at starkg5mr@gmail.com and I will get back to you!
 
 😄 Pronouns: debugger/spidey
